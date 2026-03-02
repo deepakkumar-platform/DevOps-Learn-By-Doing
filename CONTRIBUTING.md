@@ -18,7 +18,7 @@ Thanks for your interest in contributing! This project thrives on community inpu
 
 ### 3. Work on Issues
 
-- Browse the [issue tracker](https://github.com/dth99/DevOps-Learn-By-Doing/issues) for open tasks.
+- Browse the [issue tracker](https://github.com/deepakkumar-platform/DevOps-Learn-By-Doing/issues) for open tasks.
 - Issues labeled `good first issue` or `help wanted` are great places to start.
 
 ### 4. Improve the Website
